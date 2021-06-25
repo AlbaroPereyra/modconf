@@ -154,6 +154,7 @@ while getopts :a:c:d:fhk:rsv: OPT; do
       ;;
     h|+h)
       usage;
+      exit 0;
       ;;
     k|+k)
       key="$OPTARG";
