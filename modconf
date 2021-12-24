@@ -1,0 +1,17 @@
+  /opt/modconf:
+  total used in directory 184 available 17.2 GiB
+  drwxr-xr-x  17 albaropereyra  staff    544 Jul  2 22:59 .
+  drwxr-xr-x  20 albaropereyra  wheel    640 Jul  2 11:08 ..
+  -rw-r--r--   1 albaropereyra  staff     84 Jun 22  2019 .conf
+  drwxr-xr-x  16 albaropereyra  staff    512 Dec 23 18:59 .git
+  -rw-r--r--   1 albaropereyra  staff  35147 Mar 21  2018 LICENSE
+  -rw-r--r--   1 albaropereyra  staff    115 Jun 22  2019 Test
+  -rw-r--r--   1 albaropereyra  staff      6 Jul  2  2020 addTeest2.sh
+  -rw-r--r--   1 albaropereyra  staff      5 Jul  2  2020 addtest
+  -rw-r--r--   1 albaropereyra  staff     12 Mar 28  2018 conf
+  -rw-r--r--   1 albaropereyra  staff     10 Mar 28  2018 conf.modconf.bak
+  -rw-r--r--   1 albaropereyra  staff     12 Mar 28  2018 conf2
+  -rw-r--r--   1 albaropereyra  staff     10 Mar 28  2018 conf2.bak
+  -rwxr-xr-x   1 albaropereyra  staff   5503 Jul  2 22:59 modconf.sh
+  -rwxr-xr-x   1 albaropereyra  staff    418 Mar 28  2018 testModconf.sh
+  -rwxr-xr-x   1 albaropereyra  staff    188 Mar 28  2018 testScript.sh
